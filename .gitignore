@@ -1,0 +1,9 @@
+.gradle/
+build/
+out/
+.idea/
+*.iml
+LEARNING_GUIDE.md
+SOCIAL_POST_DRAFT.md
+TEAMS_POST_DRAFT.md
+VIDEO_sCRIPT.md

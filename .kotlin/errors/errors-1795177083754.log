@@ -1,0 +1,3 @@
+kotlin version: 2.4.21
+error message: java.nio.file.AccessDeniedException: C:\Users\Dell\AppData\Local\kotlin\daemon\kotlin-daemon-client-tsmarker5510181980416999011.tmp
+
